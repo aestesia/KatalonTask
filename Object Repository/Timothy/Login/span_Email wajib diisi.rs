@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Email wajib diisi</name>
+   <tag></tag>
+   <elementGuidId>d6719c93-56d3-457a-9e64-d40da6d165e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/form/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-red-500</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>96071c9b-2dbe-4097-822d-22b160a88ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-red-500</value>
+      <webElementGuid>dc27d9fd-60f5-4ff1-8393-f4eec0128699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email wajib diisi</value>
+      <webElementGuid>d0fd4b30-910d-4613-a235-663b00a640ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;grid h-screen grid-cols-1 lg:grid-cols-2&quot;]/div[@class=&quot;flex flex-col justify-center items-center gap-10&quot;]/div[@class=&quot;flex flex-col justify-center w-screen p-8 lg:w-3/4 gap-[23px]&quot;]/form[@class=&quot;flex flex-col gap-[23px]&quot;]/div[@class=&quot;flex flex-col gap-5&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex mt-4 text-sm&quot;]/span[@class=&quot;text-red-500&quot;]</value>
+      <webElementGuid>1fcb0796-bb4c-4946-842f-31f78eac5392</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div/div/div[2]/span</value>
+      <webElementGuid>73d53cda-bc43-4f7a-a5a6-598caa78dc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>0f7a04ab-1093-4175-93e9-4c1e6720687e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[1]</value>
+      <webElementGuid>b6e0711d-4934-423e-884a-d57e71213259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email wajib diisi']/parent::*</value>
+      <webElementGuid>7e6f4bb2-73cc-4043-829c-0b14cc525df7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>e23ac369-e4a1-44f1-9ee5-80fd775e7125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Email wajib diisi' or . = 'Email wajib diisi')]</value>
+      <webElementGuid>780526f7-19ae-4b7e-a2e0-653c61341760</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

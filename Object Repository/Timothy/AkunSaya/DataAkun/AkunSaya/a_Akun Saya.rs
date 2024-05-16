@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Akun Saya</name>
+   <tag></tag>
+   <elementGuidId>91a29107-9a55-44e4-a0f1-f3cc0631c2dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;headlessui-popover-panel-:r4:&quot;]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aac9b9df-be8f-4654-8dda-a448a1b7587a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/profile</value>
+      <webElementGuid>f199f1eb-6ca0-408e-a303-5790f0f60849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100</value>
+      <webElementGuid>4f1f8be9-d3da-4b86-933e-a05788fa902e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Akun Saya </value>
+      <webElementGuid>e73ce639-a553-42e7-ac39-381d6a94edb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-popover-panel-:r7:&quot;)/div[@class=&quot;py-1&quot;]/a[@class=&quot;block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100&quot;]</value>
+      <webElementGuid>76a17f5f-50c0-4c5a-96c7-89376cd81ca5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-popover-panel-:r7:']/div/a</value>
+      <webElementGuid>1246ce00-9669-42f9-9dfb-8b42409eed12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Akun Saya')]</value>
+      <webElementGuid>51fc19cf-d0fe-4634-b13b-b0bf74308029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timothy Hutson'])[1]/following::a[1]</value>
+      <webElementGuid>0818f283-ed80-4eb0-bd16-82a0778f0c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[1]</value>
+      <webElementGuid>f4625080-b612-428f-994b-462898bbdf94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/preceding::a[1]</value>
+      <webElementGuid>2e754a06-8c4b-44e1-ba32-942c9a3248be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Akun Saya']/parent::*</value>
+      <webElementGuid>ebf67432-e2f0-4b3a-b1cd-69702a0de969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/profile')]</value>
+      <webElementGuid>88e5d447-b7d6-47a3-a6b9-30795610ba00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/a</value>
+      <webElementGuid>56fb1c89-f965-4d30-ab87-00b15a51af6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/profile' and (text() = 'Akun Saya ' or . = 'Akun Saya ')]</value>
+      <webElementGuid>ff64228c-fe96-466a-828b-30ed6a58fc7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
