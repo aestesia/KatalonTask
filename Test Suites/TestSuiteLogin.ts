@@ -42,7 +42,7 @@
    <testCaseLink>
       <guid>ff07f55f-707f-4f97-8fd0-93263bca0c74</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/AkunSaya</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
